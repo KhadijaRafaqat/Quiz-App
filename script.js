@@ -89,16 +89,7 @@ const questions = [
     ],
     correct: "map()"
   },
-  {
-    question: "Which company developed React?",
-    answers: [
-      "Google",
-      "Microsoft",
-      "Meta",
-      "Amazon"
-    ],
-    correct: "Meta"
-  }
+
 ];
 
 
